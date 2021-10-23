@@ -143,5 +143,4 @@
 >   not null -- campo nunca ficara nulo. 
 >```
     
-    <div style="background: #00000044; width: 40px; height: 40px; position: fixed; z-index: 4; font-size: 3rem; display: flex; justify-content: center; align-items: center; right: 10px; bottom: 10px;"><a href="#body" style="outline: none;">^</a></div>
 </body>
