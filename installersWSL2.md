@@ -42,5 +42,10 @@
 > sudo apt install unzip
 > ````
 
+> ##  phpunit
+>````
+>sudo apt install  phpunit
+>````
+
 
 
