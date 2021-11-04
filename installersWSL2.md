@@ -27,6 +27,16 @@
 >   sudo apt install php
 > ````
 
+> ## php-mysql
+> ````
+>   sudo apt install php-mysql
+> ````
+
+> ##  phpunit
+>````
+>sudo apt install  phpunit
+>````
+
 > ## Composer
 >  Copie o comado de um em um na pagina do site a baixo
 > 
@@ -42,10 +52,7 @@
 > sudo apt install unzip
 > ````
 
-> ##  phpunit
->````
->sudo apt install  phpunit
->````
+
 
 
 
