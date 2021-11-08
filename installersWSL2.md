@@ -52,6 +52,17 @@
 > sudo apt install unzip
 > ````
 
+> ## mysql-server
+> ````
+> sudo apt install mysql-server
+> ````
+> comando de configuração
+>```
+> sudo mysql_secure_installation
+>```
+
+
+
 
 
 
