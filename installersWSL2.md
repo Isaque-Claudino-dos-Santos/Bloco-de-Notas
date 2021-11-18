@@ -61,6 +61,11 @@
 > sudo mysql_secure_installation
 >```
 
+> ## apache2
+> ```
+>    sudo apt install apache2
+> ```
+
 
 
 
