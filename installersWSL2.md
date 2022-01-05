@@ -66,6 +66,17 @@
 >    sudo apt install apache2
 > ```
 
+> ## meu pacote back-end
+> ```
+> sudo apt-get install software-properties-common
+> ```
+> ```
+> sudo add-apt-repository ppa:ondrej/php
+> ```
+> ```
+> sudo apt install openssl php8.1 php8.1-common php8.1-curl php8.1-mbstring php8.1-mysql php8.1-xml php8.1-zip libapache2-mod-php8.1
+> ```
+
 
 
 
