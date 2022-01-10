@@ -1,4 +1,3 @@
-<body style="background: #112233;" id="body">
 
 <div style="background: #00000044; width: 40px; height: 40px; position: fixed; z-index: 4; font-size: 3rem; display: flex; justify-content: center; align-items: center; right: 10px; bottom: 10px;"><a href="#body" style="outline: none;">^</a></div>
 
@@ -142,4 +141,26 @@
 >   primary key -- chave primaria.
 >   not null -- campo nunca ficara nulo. 
 >```
-</body>
+
+    ># Auter request password
+> ```
+>SET GLOBAL validate_password_policy=LOW;
+>   ||
+>SET GLOBAL validate_password_policy=0;
+> ```
+
+>## <div id="15">Create user</div> 
+>```
+> use mysql;
+>```
+>```
+> create user 'newUser'@'localhost' identified by 'myPassword';
+>```
+>#### Adiciona o priviligio root nesse usuario
+>```
+> grant all privileges on * . * to 'myUser'@'localhost';
+>```
+>```
+> flush privileges;
+>```
+    
